@@ -24,7 +24,7 @@ commands to a database, retrieves results, and uses those results in
 a practical inventory application. Development and demonstrations use
 fictional records.
 
-Software demonstration video: pending recording and upload.
+[Software Demo Video](https://youtu.be/BtNWtXkK4tA)
 
 # Relational Database
 
